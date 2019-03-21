@@ -11,6 +11,6 @@
 
 # 想要了解更多？
 - [食用指南](http://wiki.seu.services/guide)：[写作指南](http://wiki.seu.services/guide/Writing)
-- [关于本站](http://wiki.seu.services/about)：[为什么用Wiki](http://wiki.seu.services/about/WhyWiki)，[站长的话](http://wiki.seu.services/about/from-captain)
+- [关于本站](http://wiki.seu.services/about)：[为什么用Wiki](http://wiki.seu.services/about/Why-Wiki)，[站长的话](http://wiki.seu.services/about/from-captain)
 
 本站在过去7天内的在线时间比例为：![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m782198135-db316fcf840f1b0e8451e4c9.svg)
