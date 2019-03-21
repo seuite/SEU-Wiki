@@ -7,7 +7,7 @@
 - [社团分享](http://wiki.seu.services/clubs)
 - [学习乐园](http://wiki.seu.services/ilovestudy)
 - [专栏部分](http://wiki.seu.services/column)
-- [一块白板](http://wiki.seu.services/playground)
+- [一块白板](http://wiki.seu.services/playground)：在这里提问，创建和编辑你自己的页面！
 
 # 想要了解更多？
 - [食用指南](http://wiki.seu.services/guide)：[写作指南](http://wiki.seu.services/guide/Writing)
