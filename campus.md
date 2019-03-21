@@ -7,3 +7,6 @@
 - [梅园食堂](http://wiki.seu.services/campus/meiyuan-canteen)
 - [橘园食堂](http://wiki.seu.services/campus/juyuan-canteen)
 - [沙塘园食堂](http://wiki.seu.services/campus/shatangyuan-canteen)
+
+# 基建专栏
+注意脚下！
