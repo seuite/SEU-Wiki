@@ -43,7 +43,7 @@
 - [1分钟快速上手Markdown](http://wiki.seu.services/guide/OneMinuteGoMarkdown)
 
 这样的快速指南，也为希望能够进一步掌握和使用这一工具的同学提供完整的markdown手册（使用github方言）
-- [Markdown指南](http://wiki.seu.services/guide/MarkdownReference)
+- [Markdown指南](http://docs.seu.services/manual/MarkdownReference)
 
 如果你不熟悉markdown这种标记语言的写作语法，我们也提供了可视化的在线编辑器，就按照你熟悉的那样来写作吧！
 
