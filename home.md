@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A Warm Welcome from SEU Wiki! -->
 
 
-** 东大Wiki基本页面完善计划！ ** [立刻加入](http://wiki.seu.services/guide/wikibasiccomponents)
+**东大Wiki基本页面完善计划！**[立刻加入](http://wiki.seu.services/guide/wikibasiccomponents)
 # 现在就开始探索
 - [新生指南](http://wiki.seu.services/freshman)
 - [校园经验](http://wiki.seu.services/campus)
